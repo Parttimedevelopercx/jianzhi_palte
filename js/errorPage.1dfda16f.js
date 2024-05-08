@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkAPITestPlateform"]=self["webpackChunkAPITestPlateform"]||[]).push([[665],{6611:function(e,r,t){t.r(r),t.d(r,{default:function(){return f}});var n=function(){var e=this;e._self._c;return e._m(0)},s=[function(){var e=this,r=e._self._c;return r("div",{staticClass:"error-page"},[r("h2",[e._v("404，你请求的地址找不到")])])}],u={name:"error-page"},a=u,l=t(1001),c=(0,l.Z)(a,n,s,!1,null,"5ee81b6c",null),f=c.exports}}]);
+//# sourceMappingURL=errorPage.1dfda16f.js.map
